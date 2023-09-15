@@ -1,0 +1,94 @@
+﻿
+body {
+    margin: 0 auto;
+    margin-top: 200px;
+    background-color:whitesmoke;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+.back {
+    display: flex;
+    justify-content: center;
+    border-spacing: 1px;
+}
+
+.container {
+    width: 1000px;
+    height: 100%;
+    padding: 20px;
+    margin: auto;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.container1 {
+    width: 400px;
+    height: 100%;
+    padding: 20px;
+    margin: auto;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.container2 {
+    width: 1000px;
+    height: 100%;
+    padding: 20px;
+    margin: auto;
+    background-color: black;
+    border-radius: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+select {
+    width: 100%;
+    padding: 5px 25px 5px 20px;
+    font-size: 16px;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    height: 30px;
+}
+
+input[type=submit] {
+    background-color: white;
+    cursor: pointer;
+    color: black;
+    font-size: large;
+}
+
+input:focus {
+    border: none;
+}
+
+.doublebttn {
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 5px;
+    display: inline-block;
+}
+.div1 {
+    border: 1px dashed red;
+    padding: 20px;
+    margin: 40px;
+}
+
+.div2 {
+    border: 1px dashed green;
+    padding: 5px;
+    margin: 10px;
+}

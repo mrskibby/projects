@@ -1,0 +1,248 @@
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\adapter.dll.config
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\adapter.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\adapter.pdb
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\csc.exe
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\csc.exe.config
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\csc.rsp
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\csi.exe
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\csi.exe.config
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\csi.rsp
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.AppContext.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Console.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\vbc.exe
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\vbc.exe.config
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\vbc.rsp
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\obj\Debug\adapter.csprojAssemblyReference.cache
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\obj\Debug\adapter.csproj.CoreCompileInputs.cache
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\obj\Debug\adapter.csproj.CopyComplete
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\obj\Debug\adapter.dll
+C:\Users\Akibul Hasan\source\repos\adapter\adapter\obj\Debug\adapter.pdb
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\adapter.dll.config
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\adapter.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\adapter.pdb
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\csc.exe
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\csc.exe.config
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\csc.rsp
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\csi.exe
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\csi.exe.config
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\csi.rsp
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.AppContext.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Console.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.IO.Compression.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Security.Claims.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.ValueTuple.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\vbc.exe
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\vbc.exe.config
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\vbc.rsp
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\VBCSCompiler.exe
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\obj\Debug\adapter.csprojAssemblyReference.cache
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\obj\Debug\adapter.csproj.CoreCompileInputs.cache
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\obj\Debug\adapter.csproj.CopyComplete
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\obj\Debug\adapter.dll
+C:\Users\user10\Desktop\P2 SDA\adapter\adapter\obj\Debug\adapter.pdb
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\adapter.dll.config
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\adapter.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\adapter.pdb
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\csc.exe
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\csc.exe.config
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\csc.rsp
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\csi.exe
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\csi.exe.config
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\csi.rsp
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.AppContext.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Collections.Immutable.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Console.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.IO.Compression.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.IO.FileSystem.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.IO.Pipes.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Reflection.Metadata.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Security.AccessControl.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Security.Claims.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Security.Principal.Windows.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.ValueTuple.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Xml.XPath.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\vbc.exe
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\vbc.exe.config
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\vbc.rsp
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\VBCSCompiler.exe
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\roslyn\VBCSCompiler.exe.config
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\obj\Debug\adapter.csprojAssemblyReference.cache
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\obj\Debug\adapter.csproj.CoreCompileInputs.cache
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\obj\Debug\adapter.csproj.CopyComplete
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\obj\Debug\adapter.dll
+C:\My Courses\Semester 5\System Design and Analysis\Project\Project part 2\adapter\adapter\obj\Debug\adapter.pdb
+C:\Users\user\source\repos\adapter\adapter\bin\adapter.dll.config
+C:\Users\user\source\repos\adapter\adapter\bin\adapter.dll
+C:\Users\user\source\repos\adapter\adapter\bin\adapter.pdb
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\csc.exe
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\csc.exe.config
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\csc.rsp
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\csi.exe
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\csi.exe.config
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\csi.rsp
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.AppContext.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Console.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\vbc.exe
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\vbc.exe.config
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\vbc.rsp
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\source\repos\adapter\adapter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\source\repos\adapter\adapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\adapter\adapter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\adapter\adapter\obj\Debug\adapter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\adapter\adapter\obj\Debug\adapter.csproj.CopyComplete
+C:\Users\user\source\repos\adapter\adapter\obj\Debug\adapter.dll
+C:\Users\user\source\repos\adapter\adapter\obj\Debug\adapter.pdb
+C:\Users\user\source\repos\adapter\adapter\bin\Antlr3.Runtime.dll
+C:\Users\user\source\repos\adapter\adapter\bin\EntityFramework.dll
+C:\Users\user\source\repos\adapter\adapter\bin\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\adapter\adapter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\adapter\adapter\bin\Newtonsoft.Json.dll
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.Helpers.dll
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.Mvc.dll
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.Optimization.dll
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.Razor.dll
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.WebPages.dll
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\source\repos\adapter\adapter\bin\WebGrease.dll
+C:\Users\user\source\repos\adapter\adapter\bin\Antlr3.Runtime.pdb
+C:\Users\user\source\repos\adapter\adapter\bin\EntityFramework.xml
+C:\Users\user\source\repos\adapter\adapter\bin\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\adapter\adapter\bin\Newtonsoft.Json.xml
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.Helpers.xml
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.Mvc.xml
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.Optimization.xml
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.Razor.xml
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.WebPages.xml
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\source\repos\adapter\adapter\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\source\repos\adapter\adapter\obj\Debug\adapter.csprojAssemblyReference.cache

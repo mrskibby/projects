@@ -1,0 +1,5 @@
+ITarget adapter = new UserAdapter();
+foreach (string alumni in adapter.GetAlumni())
+{
+	Response.Write("<br />" + alumni + "<br />");
+}

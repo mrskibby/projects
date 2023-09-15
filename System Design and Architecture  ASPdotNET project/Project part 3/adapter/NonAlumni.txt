@@ -1,0 +1,6 @@
+ETarget adapter1 = new UserAdapter();
+foreach (string NonAlumni in adapter1.GetNonAlumni())
+{
+    Response.Write("<br />" + NonAlumni + "<br />");
+}
+;
