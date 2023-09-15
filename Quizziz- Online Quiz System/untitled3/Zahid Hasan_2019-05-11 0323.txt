@@ -1,0 +1,60 @@
+
+Question:1
+ A access level of a public modifier will have access to:
+[(A) Class, (B) Subclass, (C) Package, (D) Class, Subclass, Package, and World]
+Your answer is: A
+The correct answer is: (D) Class, Subclass, Package, and World<
+Chapter: PDF
+Section: PG4
+Current total percent correct: 0.0
+< Wrong! >
+
+Question:2
+ True or False: If a class has no modifier in a package it recieves a default of package-private(only visible within that package).
+[(T), (F)]
+Your answer is: T
+The correct answer is: (T)<
+Chapter: PDF
+Section: PG4
+Current total percent correct: 50.0
+< Correct! >
+
+Question:3
+ A access level of having no modifier will have access to:
+[(A) Class, and Subclass, (B) Class, and Package, (C) Class, Subclass, and Package, (D) Subclass, and Package]
+Your answer is: A
+The correct answer is: (C) Class, Subclass, and Package<
+Chapter: PDF
+Section: PG4
+Current total percent correct: 33.33
+< Wrong! >
+
+Question:4
+ What is a character literal representing the upper case letter A?
+[(A) 65, (B) 'A', (C) A, (D) 'a']
+Your answer is: A
+The correct answer is: (B) 'A'<
+Chapter: C14
+Section: S2
+Current total percent correct: 25.0
+< Wrong! >
+
+Question:5
+ Assume C is a char; the expression (C != ' ') will?
+[(A) Will evaluate to true if equal to a space, (B) Will evaluate to false if equal to a space, (C) Will fail to evaluate because C needs to be a string]
+Your answer is: A
+The correct answer is: (B) Will evaluate to false if equal to a space<
+Chapter: C14
+Section: S2
+Current total percent correct: 20.0
+< Wrong! >
+
+Question:6
+ If char x = 'A', Character.isUpperCase(x) will return?
+[(T) True, (F) False]
+Your answer is: T
+The correct answer is: (T) True<
+Chapter: C14
+Section: S2
+Current total percent correct: 33.33
+< Correct! >

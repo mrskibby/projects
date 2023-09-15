@@ -1,0 +1,6 @@
+11111, Sakib, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, AD, enabled
+44444, Nazmus, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, AD, enabled
+33333, Rix, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, TA, enabled, ['FIT5047', 'FIT5157', 'FIT9147']
+66666, Chen, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, TA, enabled, ['MAT9004', 'FIT5157', 'FIT9147']
+22222, Musa, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, ST, enabled, [('FIT9136', 50), ('FIT9147', 71)]
+55555, Ovi, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, ST, enabled, [('FIT9137', -1), ('FIT5157', 50), ('FIT9147', -1)]

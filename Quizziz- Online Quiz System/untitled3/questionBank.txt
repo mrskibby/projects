@@ -1,0 +1,649 @@
+﻿? True or False: When classes are in the same package they have implicit access to eachother.
+PDF
+PG2
+(T)<
+(F)
+$
+? True or False: One package can only access public members of another package.
+PDF
+PG4
+(T)<
+(F)
+$
+? True or False: When executing a program, the class path must be specified.
+PDF
+PG4
+(T)<
+(F)
+$
+? True or False: If a class has no modifier in a package it recieves a default of package-private(only visible within that package).
+PDF
+PG4
+(T)<
+(F)
+$
+? True or False: Giving a designation of private allows for use of method or value in its own class.
+PDF
+PG4
+(T)<
+(F)
+$
+? True or False: A protected value or method can only be accessed by another class in the same package or a subclass.
+PDF
+PG4
+(T)<
+(F)
+$
+? A access level of having no modifier will have access to:
+PDF
+PG4
+(A) Class, and Subclass
+(B) Class, and Package
+(C) Class, Subclass, and Package<
+(D) Subclass, and Package
+$
+? A access level of a public modifier will have access to:
+PDF
+PG4
+(A) Class
+(B) Subclass
+(C) Package
+(D) Class, Subclass, Package, and World<
+$
+? A access level of a protected modifier will have access to:
+PDF
+PG4
+(A) Class,Subclass, and World
+(B) Class,Subclass, and Package<
+(C) Class,and Package
+(D) Class, and World
+$
+? True or False:In order to run a package, you have to reference the driver class through the package name.
+PDF
+PG6
+(T)<
+(F)
+$
+? What is a character literal representing the upper case letter A?
+C14
+S2
+(A) 65
+(B) 'A'<
+(C) A
+(D) 'a'
+$
+? Assume C is a char; the expression (C != ' ') will?
+C14
+S2
+(A) Will evaluate to true if equal to a space
+(B) Will evaluate to false if equal to a space<
+(C) Will fail to evaluate because C needs to be a string
+$
+? If char x = 'A', Character.isUpperCase(x) will return?
+C14
+S2
+(T) True<
+(F) False
+$
+? String word = 'Name'; will assign the string to this variable?
+C14
+S3
+(A) False, because word is not an integer
+(B) True
+(C) False, because 'Name' is not a string<
+$
+? If String aWord contains "hello", aWord.length() will return?
+C14
+S3
+(A) "five"
+(B) "hello"
+(C) 5<
+(D) 4
+$
+? String word = "hello"; What does word.charAt(0) return?
+C14
+S3
+(A) True
+(B) 5
+(C) "h"<
+(D) "hello"
+$
+? The statement: name.charAt(name.length()-1) will always return what?
+C14
+S3
+(A) The last char of the string name<
+(B) An int of the length of string name
+(C) The string contents of string name
+(D) True
+$
+? String word = "yeet"; (word.charAt(0) == 'y') will evaluate to?
+C14
+S3
+(T) True<
+(F) False
+$
+? Write the declaration of a String method that takes two String parameters:
+C14
+S3
+(A) public String processInput(int number) { //... }
+(B) public void processInput(String a, String b) { //... }
+(C) public String processInput(String word1, String word2) { //... }<
+(D) public int processInput(String word1, String word2) { //... }
+$
+? String word = "Litty"; word.substring(0,3) returns?
+C14
+S3
+(A) "Litty"
+(B) 't'
+(C) 5
+(D) "Lit"<
+$
+?An array is a group of variables (called elements or components) containing values that all have the same type?
+C7
+S2
+(A) t<
+(B) f
+$
+?Arrays are created with keyword?
+C7
+S3
+(A) new<
+(B) make
+(C) name
+(D) call
+$
+?The first element in every array has index?
+C7
+S2
+(A) 0<
+(B) 1
+(C) -1
+(D) 2
+$
+?A GOOD example of declaring an array variable would be?
+C7
+S3
+(A) int[]c;<
+(B) int c;
+(C) int()c;
+(D) int[c];
+$
+?You can create an array and initialize its elements with an array initializer?
+C7
+S4.2
+(A) t<
+(B) f
+$
+?To pass an array argument to a method, specify the name of the array without any brackets?
+C7
+S8
+(A) t<
+(B) f
+$
+?The collection class ArrayList<E> can dynamically change its size to accommodate more elements?
+C7
+S16
+(A) t<
+(B) f
+$
+?What static method can be used to compare arrays?
+C7
+S15
+(A) sort()
+(B) equals()<
+(C) fill()
+(D) binarySearch()
+$
+?Arrays that require two indices to identify each element are called?
+C7
+S11
+(A) two-dimensional arrays<
+(B) three-dimensional arrays
+(C) one-dimensional arrays
+(D) none of the above
+$
+?Unlike some other languages, Java does not allow you to choose pass-by-value or pass-by-reference-all arguments are passed by value?
+C7
+S9
+(A) t<
+(B) f
+$
+? Superclass constructors are not inherited by subclasses. ?
+C9
+S2
+(A) t<
+(B) f
+$
+? Methods of a subclass cannot directly access private members of their superclass. ?
+C9
+S3
+(A) t<
+(B) f
+$
+? A subclass can change the state of private superclass instance variables only through: ?
+C9
+S3
+(A) A subclass cannot change the state of private superclass instance variables.
+(B) Non-Private methods provided in the super class and inherited by that subclass.<
+$
+? Declaring private instance variables helps you test, debug and correctly modify system. ?
+C9
+S3
+(A) t<
+(B) f
+$
+? Why does declare overridden method with annotation ‘@Override’ is a good idea ?
+C9
+S4
+(A) It doesn’t have any useful function to the current program.
+(B) To ensure at compilation time that you defined their signatures correctly.
+(C) It is always better to find errors at compile time rather than at runtime.
+(D) A and B.<
+$
+? Why inheritance is useful in terms of software engineering ?
+C9
+S4
+(A) It reduces the use of memory.
+(B) It makes the program run faster.
+(C) It is more convenience when a developer wants to make changes in their source code. <
+$
+? Does declaring a subclass affect its superclass’s source code ?
+C9
+S4
+(A) Yes. It will erase all the instance variables in its superclass.
+(B) No. Inheritance preserves the integrity of the super class.<
+$
+? What a subclass can contain from its superclass ?
+C9
+S4
+(A) It doesn’t contain anything from its superclass.
+(B) It contains all instance variables from its super class.
+(C) It contains all instance variables and all methods from its superclass.<
+$
+? How can a subclass access to its superclass’s instance variables ?
+C9
+S4
+(A) Since it inherits its superclass, it can access to its superclass’s instance variables whenever it wants.
+(B) The instance variables have to be declared with the private keyword.
+(C) The instance variables have to be declared with protected keyword.<
+$
+? All classes in java inherit directly or indirectly from class Object. So how many methods that Object class has ?
+C9
+S6
+(A) 9
+(B) 10
+(C) 11<
+(D) 12
+$
+? What is recursion?
+C18
+S1
+(A) A subclass calling a superclass
+(B) Data structures consisting of related data items of the same type
+(C) A method that calls on itself either directly or indirectly<
+(D) An incomplete class that doesn’t create any objects
+$
+?  What is indirect recursion?
+C18
+S2
+(A) When a method calls upon itself
+(B) When a method calls another method which then calls on the original method<
+(C) When a method calls an abstract class
+$
+? What would happen if the base case were omitted from the recursion ?
+C18
+S4
+(A) Compiler Error
+(B) Infinite Loop
+(C) Infinite Recursion<
+(D) Nothing
+$
+? What do iteration and recursion NOT have in common?
+C18
+S7
+(A) They each need a termination test
+(B) They both gradually approach termination
+(C) They both use a selection statement<
+(D) They both involve iteration
+$
+?  Any problem that can be solved recursively can be solved iteratively and vice versa?
+C18
+S7
+(A) True<
+(B) False
+$
+?  What is recursive back tracking?
+C18
+S10
+(A) Using recursion to return to an earlier decision point<
+(B) A syntax error
+(C) A compiler error
+(D) A method of debugging
+$
+?  What is a drawback to recursion?
+C18
+S5
+(A) It can only solve simple problems
+(B) It is difficult to debug
+(C) The more times it calls itself, the longer it takes to compute<
+(D) The solution is not always apparent
+$
+?  Why are fractals used when teaching recursion?
+C18
+S9
+(A) They require a lot of math equations
+(B) They are easy to debug
+(C) They create a form by repeating a pattern<
+(D) They are a good introduction to GUIs
+$
+?  A ____ is needed to terminate recursion?
+C18
+S1
+(A) recursion step
+(B) void return type
+(C) break statement
+(D) base case<
+$
+?  Each time a fractal’s pattern is applied, the fractal is said to be at a new _____?
+C18
+S9
+(A) width
+(B) height
+(C) level<
+(D) volume
+$
+? Which type of data is permanently stored?
+C15
+S1
+(A) Arrays
+(B) String
+(C) Int
+(D) Files<
+$
+?  What is “Path”?
+C15
+S3
+(A) It represents the location of the file<
+(B) It opens the file
+(C) It is used when altering the file
+(D) It creates a new file
+$
+?  Which class is used for file output?
+C15
+S3
+(A) Scanner
+(B) Formatter<
+(C) Files
+(D) Paths
+$
+? Which class is used for file input?
+C15
+S3
+(A) Scanner<
+(B) Formatter
+(C) Files
+(D) Path
+$
+? Given a PrintWriter reference variable named output that references a PrintWriter object, write a statement that flushes any buffered outputon the stream associated with the object, releases any system resources associated with the object and ceases output operations on the associated stream.
+C15
+S4
+(A) output.close();<
+(B) outputon.exit(); exit();
+$
+? Given an initialized String variable message, and given a PrintWriter reference variable named output that references a PrintWriter object, write a statement that writes the string referenced by message to the file output streams to.
+C15
+S4
+(A) output.print(message);<
+(B) System.out.print(message);
+$
+? Given a String variable named line1 and given a Scanner reference variable stdin that has been assigned a reference to a Scanner object, read the next line from stdin and save it in line1
+C15
+S4
+(A) line1 = stdin.nextLine();<
+(B) total-=input.nextInt();
+(C) sc.nextLine(line1);
+$
+? Given a PrintWriter reference variable named output that references a PrintWriter object , write a statement that writes the string “Hello, World” to the file output streams to.
+C15
+S4
+(A) System.out.print(“Hello, World”);
+(B) output.print("Hello, World");<
+$
+? One of the constructors for PrintStream class has a single OutputStream argument. Assume that dos is a variable that references an OutputStream object. How would you create a PrintStream object using dos and assign the resulting reference to ps, a PrintStream variable that has already been declared?
+C15
+S7
+(A) printStream(dos);
+(B) ps= new PrintStream(dos);<
+(C) if(dos=true){ps= new PrintStream(dos);
+$
+?  A file must be closed and reopened when wanting to read data in the file multiple times?
+C18
+S3
+(A) True<
+(B) False
+$
+? Write a single statement that declares a reference variable of type Integer named myInt, creates an object of type Integer with the initial value of 75, and assigns it to the reference variable.
+C16
+S16
+(A) Integer myInt = new Integer(75); <
+(B) Integer myInt;
+(C) Integer myInt = new Integer(seventyFive);
+$
+? Suppose a reference variable of type Double called myDouble has already been declared. There is also a double variable x that has been declared and initialized. Create an object of type Double with the initial value of x and assign it to the reference variable myDouble.
+C16
+S16
+(A) myString2 = new String(x);
+(B) Double myDouble2 = new Double(x);<
+(C) myDouble = myDouble2;
+(D) myFloat2 = new Float(x);
+$
+? Suppose a reference variable of type Integer called myInt is already declared. Create an object of type Integer with the initial value of 1 and assign it to the reference variable myInt.
+C16
+S16
+(A) myInt = new Integer(1); <
+(B) myInt = new Int();
+(C) none of the above
+$
+? Suppose a reference variable of type Long called myLong is already declared. Create an object of type Long with the initial value of two billion and assign it to the reference variable myLong.
+C16
+S16
+(A) myLong = myLong();
+(B) myLong = new Float();
+(C) myLong = new Long(2000000000L); <
+$
+? Suppose a reference variable of type Double called myDouble is already declared. Create an object of type Double with the initial value of 1.5 and assign it to the reference variable myDouble.
+C16
+S16
+(A) myDouble = new Double(1.5);<
+(B) myLong = new Float();
+(C) none of the above
+$
+? Suppose a reference variable of type Double called myDouble has already been declared . There is also a double variable x that has been declared and initialized . Create an object of type Double with the initial value of x and assign it to the reference variable myDouble.
+C16
+S16
+(A) myDouble = new Double(x);<
+(B) myString = new String(x);
+(C) none of the above
+$
+? Given an ArrayList a, write an expression that refers to the first element of the ArrayList.
+C16
+S16
+(A) a.get();
+(B) a.get(0); <
+(C) a.get(first);
+$
+? Which of these is a reason to use a lambda?
+C17
+S0
+(A) To serve as a pointer to a memory address
+(B) Changing the value of a final type variable
+(C) Functional programming; to pass methods as data with a functional interface <
+$
+? A lambda expression should have an argument list, arrow token, and a body: (int x, int y) -> x+y
+C17
+S0
+(T) True <
+(F) False
+$
+? Lambdas don't allow you to pipe multiple methods together:
+C17
+S0
+(A) True, you can't pipe multiple methods
+(B) False, they do allow piping multiple methods <
+(C) False, lambdas require that multiple methods be piped together
+$
+? Lambdas allow for streams with less code?
+C17
+S0
+(T) True <
+(F) False
+$
+? Lambdas remove the need for what?
+C17
+S0
+(A) Comments that clarify and explain code
+(B) Anonymous inner classes <
+(C) Semicolons at the end of code statements
+$
+? Concurrency is the ability to run several programs or several parts of a program in parallel
+C23
+S0
+(T)  <
+(F)  
+$
+? A thread is a lightweight process which has its own call stack, but can access shared data of other threads in the same process
+C23
+S0
+(T)  <
+(F)  
+$
+? Concurrency is another name for Parallelism.
+C23
+S0
+(T)  
+(F)  <
+$
+? sleep() is not method and its not used to pause a process for few seconds or a period time we want to.
+C23
+S0
+(T)  
+(F)  <
+$
+? Modern computers has several CPU’s or several cores within one CPU, enabling programs to utilize all cores for some part of processing.
+C23
+S0
+(T)  <
+(F)  
+$
+?What does a stream pipeline do?
+C17
+S2.3
+(A) Carry water from point A to point B
+(B) Moves the stream’s elements through a sequence of tasks(or processing steps)<
+(C) Is used to separate directories and files in a path
+(D) None of the above
+$
+?What static method produces a closed range of values?
+C17
+S2.3
+(A) rangeClosed<
+(B) range
+(C) sum
+(D) count
+$
+?A   ->   is called an “arrow token”?
+C17
+S3.2
+(A) true<
+(B) false
+$
+?The order of the operation in a stream pipeline matters
+C17
+S4
+(A) true<
+(B) false
+$
+?count, a terminal operations from the class IntStream returns:
+C17
+S7.2
+(A) the smallest int in the stream
+(B) the number of elements in the stream<
+(C) the sum of all the ints in the stream
+(D) nothing
+$
+?__________ involves using a superclass variable to invoke methods on superclass and subclass objects.
+C10
+S10.1
+(A) Encapsulation
+(B) Polymorphism<
+(C) Inheritance
+(D) None of the above
+$
+?Casting a reference stored in a superclass variable to a subclass type is called _________
+C10
+S10.1
+(A) Downcasting<
+(B) Upcasting
+(C) Sidecasting
+(D) Un-boxing
+$
+?If the same message is passed to objects of several different classes and all of them can react in a different way what is this feature called?
+C10
+S10.0
+(A) Overloading
+(B) Inheritance
+(C) Overriding
+(D) Polymorphism<
+$
+?Interfaces can contain static methods.
+C10
+S10.10
+(A) True<
+(B) False
+$
+?What happens if a class that implements an interface that has a default method in it does not override that default method?
+C10
+S10.10
+(A) It will generate an error.
+(B) It will use the implementation for that method that is defined in the interface.<
+(C) Nothing happens.
+(D) None of the above.
+$
+?Which version of Java was private Interface Methods released in?
+C10
+S10.11
+(A) Java SE 7
+(B) Java SE 1.4
+(C) Java SE 8
+(D) Java SE 9<
+$
+?Can constructors be private?
+C10
+S10.12
+(A) True<
+(B) False
+$
+?Which keyword is used by a class to implement an interface?
+C10
+S10.9
+(A) implement
+(B) import
+(C) implements<
+(D) extends
+$
+?Which of these can be used to fully abstract a class from it's implementation?
+C10
+S10.9
+(A) Classes
+(B) Interfaces<
+(C) Polymorphism
+(D) None of the above.
+$
+?What does the final keyword do when it is applied to a method?
+C10
+S10.8
+(A) Makes it so any subclasses cannot override that method.<
+(B) Makes it so that none of that methods parameters can be changed.
+(C) Both B and A.
+(D) None of the above.
+$

@@ -1,0 +1,9 @@
+11111, Sakib, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, AD, enabled
+22222, Musa, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, ST, enabled, [(FIT9136, 50), (MAT9004, 100)]
+33333, Rix, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, TA, enabled, [FIT9136, FIT5047, FIT5157]
+44444, Nazmus, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, AD, disabled
+55555, Ovi, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, ST, disabled, [(FIT5047, 100), (FIT5157, 50)]
+66666, Chen, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, TA, disabled, [MAT9004, FIT5157]
+76948, Deb, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, ST, enabled
+64547, Sakibbb, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, ST, enabled
+13885, Sakibb, ^^^v!J#T$R%K&X(Y)Z*1+2-$$$, ST, enabled

@@ -1,0 +1,89 @@
+%SIGNAL
+PIN   4 =  a0 
+PIN   5 =  a1 
+PIN   6 =  a2 
+PIN   7 =  b0 
+PIN   8 =  b1 
+PIN   9 =  b2 
+PIN   1 =  clk 
+PIN  17 =  diffCmp 
+PIN   3 =  preset 
+PIN  21 =  q0 
+PIN  22 =  q1 
+PIN  23 =  q2 
+PIN   2 =  reset 
+PIN  18 =  sameCmp 
+PIN  10 =  startPrt 
+%END
+
+%FIELD
+FIELD count = q2,q1,q0
+%END
+
+%EQUATION
+clkEn =>
+    diffCmp & startPrt
+
+diffCmp =>
+    !sameCmp
+
+q0.d  =>
+    diffCmp & !q0 & !q1 & !q2 & startPrt
+  # diffCmp & q0 & startPrt
+  # !diffCmp & !q0
+  # !q0 & !startPrt
+
+q0.ar q1.ar q2.ar  =>
+    reset
+
+q0.sp q1.sp q2.sp  =>
+    preset
+
+q1.d  =>
+    diffCmp & !q0 & !q1 & !q2 & startPrt
+  # diffCmp & !q0 & q1 & startPrt
+  # diffCmp & q0 & !q1 & startPrt
+  # !diffCmp & !q1
+  # !q1 & !startPrt
+
+q1.ar  =>
+    
+q1.sp  =>
+    
+q2.d  =>
+    diffCmp & q0 & !q1 & !q2 & startPrt
+  # diffCmp & !q0 & !q1 & startPrt
+  # diffCmp & q1 & !q2 & startPrt
+  # !diffCmp & !q2
+  # !q2 & !startPrt
+
+q2.ar  =>
+    
+q2.sp  =>
+    
+sameCmp =>
+    !a0 & !a1 & !a2 & !b0 & !b1 & !b2
+  # a0 & !a1 & !a2 & b0 & !b1 & !b2
+  # !a0 & a1 & !a2 & !b0 & b1 & !b2
+  # a0 & a1 & !a2 & b0 & b1 & !b2
+  # !a0 & a1 & a2 & !b0 & b1 & b2
+  # a0 & a1 & a2 & b0 & b1 & b2
+  # !a0 & !a1 & a2 & !b0 & !b1 & b2
+  # a0 & !a1 & a2 & b0 & !b1 & b2
+
+diffCmp.oe  =>
+    1 
+
+q0.oe  =>
+    1 
+
+q1.oe  =>
+    1 
+
+q2.oe  =>
+    1 
+
+sameCmp.oe  =>
+    1 
+
+%END

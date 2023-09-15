@@ -1,0 +1,20 @@
+
+Question:1
+__________ involves using a superclass variable to invoke methods on superclass and subclass objects.
+[(A) Encapsulation, (B) Polymorphism, (C) Inheritance, (D) None of the above]
+Your answer is: A
+The correct answer is: (B) Polymorphism<
+Chapter: C10
+Section: S10.1
+Current total percent correct: 0.0
+< Wrong! >
+
+Question:2
+What happens if a class that implements an interface that has a default method in it does not override that default method?
+[(A) It will generate an error., (B) It will use the implementation for that method that is defined in the interface., (C) Nothing happens., (D) None of the above.]
+Your answer is: D
+The correct answer is: (B) It will use the implementation for that method that is defined in the interface.<
+Chapter: C10
+Section: S10.10
+Current total percent correct: 0.0
+< Wrong! >

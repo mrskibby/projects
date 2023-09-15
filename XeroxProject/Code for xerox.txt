@@ -1,0 +1,69 @@
+Name     Xerox Machine ;
+PartNo   00 ;
+Date     19/12/2017 ;
+Revision 01 ;
+Designer Engineer ;
+Company  UTM ;
+Assembly None ;
+Location  ;
+Device   G22V10 ;
+
+/* *************** INPUT PINS *********************/
+PIN  1   = clk                       ; /* Clock        */
+PIN  2   = reset                     ; /* Reset        */
+PIN  3   = preset                    ; /* Preset       */
+PIN  4   = a0                        ; /* Comparator A */
+PIN  5   = a1                        ; 
+PIN  6   = a2                        ; 
+PIN  7   = b0                        ; /* Comparator B */
+PIN  8   = b1                        ; 
+PIN  9   = b2                        ; 
+PIN  10  = startPrt                  ; /* Start Print  */
+
+/* *************** OUTPUT PINS *********************/
+PIN  17   = diffCmp                   ;/* XOR (A B not equal HIGH) */  
+PIN  18   = sameCmp                   ;/* XNOR (A B equal HIGH)    */
+PIN  21   = q0                        ;/* output counter             */
+PIN  22   = q1                        ;/* output counter             */
+PIN  23   = q2                        ;/* output counter             */
+
+/*****Function Comparator********/
+sameCmp = !(a0$b0)&!(a1$b1)&!(a2$b2);
+diffCmp = !sameCmp;
+
+/*****Function Clock Enabler*****/
+clkEn = startPrt & diffCmp;
+
+/*****Function Counter 3 bit up**/
+field count =[q2..0];
+$define s0 'b' 000
+$define s1 'b' 001
+$define s2 'b' 010
+$define s3 'b' 011
+$define s4 'b' 100
+$define s5 'b' 101
+$define s6 'b' 110
+$define s7 'b' 111
+
+count.ar = reset;   /* connect reg AR to reset (Asyn Mode) */
+count.sp = preset;  /* connect reg AR to preset (Syn Mode) */
+
+
+sequence count{
+	present s0 if clkEn next s1;
+		default next s0;
+	present s1 if clkEn next s2;
+		default next s1;
+	present s2 if clkEn next s3;
+		default next s2;
+	present s3 if clkEn next s4;
+		default next s3;
+	present s4 if clkEn next s5;
+		default next s4;
+	present s5 if clkEn next s6;
+		default next s5;
+	present s6 if clkEn next s7;
+		default next s6;
+	present s7 if clkEn next s7;
+		default next s7;
+ 
